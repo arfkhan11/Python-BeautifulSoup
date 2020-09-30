@@ -1,2 +1,2 @@
-# Python-BeautifulSoup
+# Python-Beautifull-Soup
 CodeWithHarry
